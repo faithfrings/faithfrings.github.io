@@ -23,10 +23,10 @@ repository               : "faithfrings/faithfrings.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "frings_headshot.jpg"
   name             : "Faith Frings"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate researching undergraduate biological data science education"
+  pronouns         : "she/her"  
+  bio              : "PhD Candidate in Integrative Biology"
   location         : "Durham, New Hampshire"
   employer         : "University of New Hampshire"
   uri              : # URL
