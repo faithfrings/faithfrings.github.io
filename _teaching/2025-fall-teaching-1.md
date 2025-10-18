@@ -12,9 +12,9 @@ location: "Durham, NH USA"
   * Duties include: Assisting with teaching computational concepts of R, markdown, and Git to undergraduate and graduate students.
   * Supervisor: Dr. Easton White
   
----
+<hr />
 
-* Spring 2024, 2025 - Applied Biostatistics (BIOL 528)
+* Spring 2024, 2025: Applied Biostatistics (BIOL 528)
   * Duties included: Assisting with teaching statistical concepts in life sciences contexts and grading assignments. Developed an R extra credit assignment. 
   * Supervisor: Dr. Patty Jarema
   
