@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Integrative Biology, University of New Hampshire (in progress)
+  * Advisor: Dr. Melissa Aikens
+  * Thesis: Statistical programming persistence in the life sciences: Investigating student motivation in diverse biology courses
+* M.S. in Biology with a concentration in Ecology & Evolution, University of South Florida, 2022
+  * Advisor: Dr. Luanna Prevost
+  * Thesis: Mixed method analysis of undergradute student interpretation of different phylogenetic trees
+* B.S. in Marine Biology, University of South Florida, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summers 2023-2025: Graduate Research Assistant
+  * University of New Hampshire
+  * Duties included: Conducting and analyzing qualitative interviews, and qualitative coding of open response questions 
+  * Supervisor: Dr. Melissa Aikens
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2024: Graduate Research Assistant
+  * University of New Hampshire
+  * Duties included: Creating teaching materials for introductory and intermediate statistics and R concepts, and assisting with recuitment for a data science training program
+  * Supervisor: Dr. Easton White
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Graduate Research Assistant
+  * University of South Florida
+  * Duties included: Creating and organizing online resources for k-12 instructors.
+  * Supervisor: Dr. Luanna Prevost
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: R
+* Markup languages:
+  * Rmarkdown
+  * Quarto
+
 
 Publications
 ======
@@ -61,4 +64,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* September 2025: DBER-SiT Chair
+* January 2025 - September 2025: DBER-SiT Chair-Elect
+* August 2023 - September 2025: DBER-SiT Funding Committee Co-Chair
+* January 2025 - present: UNH R Users Group Instructor
+* August 2022 - May 2023: Co-founder of the Department of Biological Sciences Graduate Student Committee at the University of New Hampshire
+* May 2021 - May 2022: Co-president of Biology Graduate Student Organization at the University of South Florida
