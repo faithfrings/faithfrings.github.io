@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Faith Frings, M.S. Discipline-based Education Researcher"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## About me
+
 
 Hello world! My name is Faith Frings, and I am discipline-based education researcher (DBER) interested in student cognition and motivation in statistics and data science in the life sciences. I am currently a PhD candidate in the Biology Education Research Group (BERG) at the University of New Hampshire (UNH), and I am advised by Dr. Melissa Aikens. 
 
