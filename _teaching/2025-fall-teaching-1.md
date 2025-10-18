@@ -8,6 +8,8 @@ date: 2025-08-25
 location: "Durham, NH USA"
 ---
 
+---
+
 * Fall 2023, 2024, 2025: Data Science for Life Sciences (BIOL 706/806)
   * Duties include: Assisting with teaching computational concepts of R, markdown, and Git to undergraduate and graduate students.
   * Supervisor: Dr. Easton White
