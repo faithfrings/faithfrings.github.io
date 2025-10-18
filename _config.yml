@@ -30,7 +30,7 @@ author:
   location         : "Durham, New Hampshire"
   employer         : "University of New Hampshire"
   uri              : # URL
-  email            : "Faith.Frings@unh.edu" 
+  email            : '<a href="mailto:Faith.Frings@unh.edu">Faith.Frings@unh.edu</a>' 
 
   # Academic websites
   academia         : # URL
