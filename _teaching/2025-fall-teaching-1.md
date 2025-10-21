@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Graduate Teaching Assistantships"
 collection: teaching
 type: "Undergraduate & Graduate courses"
 permalink: /teaching/2025-fall-teaching-1/

@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant"
+title: "Teaching Assistant"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2025-spring-teaching-1
