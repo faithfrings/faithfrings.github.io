@@ -9,6 +9,7 @@ location: "Appledore Island, Maine"
 ---
 
 ---
+
 * June 2025: Field Animal Behavior (MEFB 714/BIOSM 3290)
   *Duties included: Assisted with teaching animal behavior concepts and ecological experimental design. 
   * Supervisors: Dr. Hal Weeks & Dr. Will Kimler
