@@ -3,13 +3,13 @@ title: "For trainees, by trainees: Supporting Discipline-Based Education Researc
 collection: publications
 category: manuscripts
 permalink: /publication/2025-#-#-BIO-LED-bookchapter-1
-excerpt: 'This book chapter is about the mission and goals of DBER-SiT'
+excerpt: 'This book chapter describes the mission and goals of DBER-SiT'
 date: 2025-10-01
 venue: 'Lexington Books'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Esparza, D., Amin, N. E., Frings, F. G., Halmo, S. M., Hazlett, Z. S., Heim, A. B., Uminski, C., Von der Mehden, B., Wright, A. M., & Yang, M. (accepted). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>.'
+citation: 'Esparza, D., Amin, N. E., Frings, F. G., Halmo, S. M., Hazlett, Z. S., Heim, A. B., Uminski, C., Von der Mehden, B., Wright, A. M., & Yang, M. (accepted). &quot;For trainees, by trainees: Supporting Discipline-Based Education Research Scholars-in-Training through career transitions with inclusive, accessible professional development.&quot; <i>Lexington Books</i>.'
 ---
-Esparza, D., Amin, N. E., Frings, F. G., Halmo, S. M., Hazlett, Z. S., Heim, A. B., Uminski, C., Von der Mehden, B., Wright, A. M., & Yang, M. (accepted). For trainees, by trainees: Supporting Discipline-Based Education Research Scholars-in-Training through career transitions with inclusive, accessible professional development. In Understanding Membership Diversity and Supporting Equitable STEM Communities: Scientific Societies and Professional Organizational Case Studies. Lexington Books.
+
 
