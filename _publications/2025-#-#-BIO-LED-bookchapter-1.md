@@ -1,7 +1,7 @@
 ---
 title: "For trainees, by trainees: Supporting Discipline-Based Education Research Scholars-in-Training through career transitions with inclusive, accessible professional development"
 collection: publications
-category: manuscripts
+category: books
 permalink: /publication/2025-#-#-BIO-LED-bookchapter-1
 excerpt: 'This book chapter describes the mission and goals of DBER-SiT'
 date: 2025-10-01
