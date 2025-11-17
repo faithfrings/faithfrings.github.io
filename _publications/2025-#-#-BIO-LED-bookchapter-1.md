@@ -4,8 +4,6 @@ collection: publications
 category: books
 permalink: /publication/2025-#-#-BIO-LED-bookchapter-1
 excerpt: 'This book chapter describes the mission and goals of DBER-SiT'
-date: 2025-10-01
-venue: 'Lexington Books'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
