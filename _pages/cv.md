@@ -38,7 +38,7 @@ Work experience
   
 Skills
 ======
-* Programming languages: R
+* Profieciency in R
 * Markup languages:
   * Rmarkdown
   * Quarto
