@@ -4,7 +4,7 @@ collection: publications
 category: media
 permalink: /publications/2021-02-12-Frontiers-Young-minds-1
 excerpt: 'This media publication is an article on the history Darwin Day, catered to young readers : https://www.frontiersin.org/news/2021/02/12/children-in-science-celebrating-the-importance-of-evolution.'
-date: 2025-02-12
+date: 2021-02-12
 venue: 'Frontiers for Young Minds'
 ---
 
