@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-Hello world! My name is Faith Frings, and I am discipline-based education researcher (DBER) interested in student motivation and cognition in statistics and data science in the life sciences. I am currently a PhD candidate in the Biology Education Research Group (BERG) at the University of New Hampshire (UNH), advised by Dr. Melissa Aikens. 
+Hello world! My name is Faith Frings, and I am discipline-based education researcher (DBER) interested in student motivation and cognition in statistics and data science in the life sciences. I am currently a PhD candidate in the [Biology Education Research Group (BERG)](https://sites.usnh.edu/mla1011/lab-members/) at the University of New Hampshire (UNH), advised by Dr. Melissa Aikens. 
 
 ---
 I earned a M.S. in Biology with a concentration in Ecology and Evolution at the University of South Florida under the [Biology Education Lab at USF](https://www.prevostlab.org/research-team). My thesis research used mixed methods to investigate how undergraduate students interpret different styles of phylogenetic trees in upper level biology courses.
