@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV Here](files/CV_FFDYF_copy.pdf)
+
 Education
 ======
 * Ph.D. in Integrative Biology, University of New Hampshire (in progress)
