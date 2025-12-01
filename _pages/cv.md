@@ -66,9 +66,10 @@ Teaching
   
 Service and leadership
 ======
-* September 2025: DBER-SiT Chair
+* September 2025 - present: DBER-SiT Chair
+* October 2025 - present: SABER Virtual Committee Co-Chair
 * January 2025 - September 2025: DBER-SiT Chair-Elect
 * August 2023 - September 2025: DBER-SiT Funding Committee Co-Chair
 * January 2025 - present: UNH R Users Group Instructor
-* August 2022 - May 2023: Co-founder of the Department of Biological Sciences Graduate Student Committee at the University of New Hampshire
+* August 2022 - May 2023: Co-founder and Member of the Department of Biological Sciences Graduate Student Committee at the University of New Hampshire
 * May 2021 - May 2022: Co-president of Biology Graduate Student Organization at the University of South Florida
