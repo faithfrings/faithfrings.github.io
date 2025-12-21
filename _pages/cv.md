@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D. in Integrative Biology, University of New Hampshire (in progress)
   * Advisor: Dr. Melissa Aikens
-  * Thesis: Statistical programming persistence in the life sciences: Investigating student motivation in diverse biology courses
+  * Dissertation: Developing data literacy in biology courses: Investigating students’ programming motivation 
 * M.S. in Biology with a concentration in Ecology & Evolution, University of South Florida, 2022
   * Advisor: Dr. Luanna Prevost
   * Thesis: Mixed method analysis of undergradute student interpretation of different phylogenetic trees
@@ -40,7 +40,7 @@ Work experience
   
 Skills
 ======
-* Profieciency in R
+* Proficiency in R
 * Markup languages:
   * Rmarkdown
   * Quarto
