@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV Here](https://github.com/faithfrings/faithfrings.github.io/blob/master/files/CV_FFDYF_copy%20.pdf)
+[Download CV Here](https://github.com/faithfrings/faithfrings.github.io/blob/master/files/CV_FFDYFV2.pdf)
 
 Education
 ======
