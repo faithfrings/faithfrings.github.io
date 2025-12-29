@@ -13,7 +13,7 @@ Hello world! My name is Faith Frings, and I am discipline-based education resear
 
 I earned a M.S. in Biology with a concentration in Ecology and Evolution at the University of South Florida under [Dr. Luanna Prevost's lab](https://www.prevostlab.org/research-team). My thesis research used mixed methods to investigate how undergraduate students interpret different styles of phylogenetic trees in upper level biology courses.
 
-My current dissertation research uses qualitative and mixed methods to explore and investigate undergraduate student motivation to engage with learning coding and statistics in the life sciences. I collect data in R integrated biology courses and field-based data science courses.
+My current dissertation research uses qualitative and mixed methods to explore and investigate undergraduate student motivation to engage with learning coding in the life sciences. I collect data in R integrated biology courses and field-based data science courses.
 
 ---
 
