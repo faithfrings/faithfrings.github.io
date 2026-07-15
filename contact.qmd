@@ -6,7 +6,7 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Faith Frings**
 
 School
 

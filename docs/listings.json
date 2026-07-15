@@ -12,6 +12,10 @@
     "items": []
   },
   {
+    "listing": "/pub-listing.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/event-title/index.html",
@@ -21,10 +25,6 @@
   },
   {
     "listing": "/people.html",
-    "items": []
-  },
-  {
-    "listing": "/pub-listing.html",
     "items": []
   }
 ]

@@ -1,30 +1,30 @@
 project:
   type: website
   output-dir: docs
-  pre-render:  # This can be deleted if you are using the manually curated list of publications in publications.qmd
-    - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
+#  pre-render:  # This can be deleted if you are using the manually curated list of publications in publications.qmd
+#    - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
     
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+#description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+author-meta: "Faith Frings"
 
 website:
-  title: "Quarto Academic"
+  title: "Faith Frings"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+#  description: "Quarto Academic Website Template adapted by Dr. Gang He"
  
   navbar:
-    background: light  # You can change the background color here
+    background: dark  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
       - text: About
         menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
+#          - text: News
+#            href: posts.qmd#category=news
+#          - text: Events
+#            href: posts.qmd#category=event      
           - text: Contact
             href: contact.qmd             
       - text: Research
@@ -62,8 +62,8 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "[Faith Frings](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Faith Frings](http://drganghe.github.io)"
     right:  
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template

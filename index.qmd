@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+title: "Faith Frings, MS"
+description-meta: "Biology Education Researcher"
+image: "files/images/headshot.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -22,15 +22,15 @@ about:
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:faithfrings@gmail.com    
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
+#    - icon: youtube
+#      text: YouTube
+#      href: https://www.youtube.com     
+#      target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
       href: https://orcid.org
       target: _blank
@@ -67,34 +67,15 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+Hello world! My name is Faith Frings, and I am discipline-based education researcher (DBER) interested in student motivation and cognition in statistics and data science in the life sciences. I am currently a PhD candidate in the [Biology Education Research Group (BERG)](https://sites.usnh.edu/mla1011/lab-members/) at the University of New Hampshire.
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+I earned a M.S. in Biology with a concentration in Ecology and Evolution at the University of South Florida under the supervision of [Dr. Luanna Prevost](https://www.prevostlab.org/research-team). My thesis research used mixed methods to investigate how undergraduate students interpret different styles of phylogenetic trees in upper level biology courses.
 
-I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
+My current dissertation research uses qualitative and mixed methods to explore and investigate undergraduate student motivation to engage with learning coding in the life sciences. I collect data in R integrated biology courses and field-based data science courses.
 
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
+I am currently serving as the Chair of the [DBER scholars in training (DBER-SiT) committee](https://saberbio.org/Committee-Chairs). Our goals are to provide community and support for DBER graduate and postdoctoral scholars. More information [here](https://saberbio.org/DBER-SiT). If you are interested in joining the DBER-SiT Discord, please email us!
 
-## Experience
-
-- Researcher, Univerisity
-- Consultant, Company
-- Intern, Institute
-
-## Education
-
-- PhD, Univerisity
-- Master, Univerisity
-- Bachelor, Univerisity
-
+I also co-lead an R Users Group with Dr. Easton White at UNH. Our goals are to develop a community for graduate students and post docs to learn and do statistics and coding in R. More information [here!](https://unh-r-users-group.github.io/website/)
 :::
 
 
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
-
-:::{#recent-posts}
-:::
-
-<p align="right">[All Posts »](/posts.qmd)</p>
