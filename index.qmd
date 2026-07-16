@@ -14,55 +14,55 @@ about:
   links:
     - icon: sun
       text: Lab
-      href: https://www.github.com
+      href: https://sites.usnh.edu/mla1011/lab-members/
       target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
+#    - icon: globe
+#      text: Uprofile
+#      href: https://baruch.cuny.edu
+#      target: _blank
     - icon: envelope
       text: E-mail
       href: mailto:faithfrings@gmail.com    
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/faith-frings-4b7972202/
       target: _blank
 #    - icon: youtube
 #      text: YouTube
 #      href: https://www.youtube.com     
 #      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
+#    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+#      href: https://orcid.org
+#      target: _blank
+#    - text: "{{< ai clarivate >}} Web of Science"
+#      href: https://www.webofscience.com  
+#      target: _blank
+#    - text: "{{< ai scopus >}} Scopus"
+#      href: https://www.scopus.com
+#      target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar-google-com.unh.idm.oclc.org/citations?user=QulnQpwAAAAJ&hl=en
       target: _blank
 #    - text: "{{< ai researchgate >}} Research Gate"
 #      href: https://www.researchgate.net
 #      target: _blank
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
+#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+#  - id: recent-posts
+#    contents: 
+#      - posts
+#      - posts/post-links.yml
+#    exclude:
+#      title: ""
+#    type: grid
+#    max-items: 3
 #    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+#    page-size: 3 #set same as max-times to remove the page number setting
+#    fields: [image, date, title, subtitle]
+#    max-description-length: 75
+#    sort: 
+#      - "date desc"
+#      - "title asc"
 ---
 
 :::{#hero-heading}

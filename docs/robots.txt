@@ -1,1 +1,1 @@
-Sitemap: https://drganghe.github.io/quarto-academic-website-template/sitemap.xml
+Sitemap: https://faithfrings.github.io/sitemap.xml

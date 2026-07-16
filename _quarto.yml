@@ -83,7 +83,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+  repo-url: https://github.com/faithfrings/faithfrings.github.io
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
@@ -91,11 +91,11 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://faithfrings.github.io/"
   
-  google-analytics:
-    tracking-id: ""  # Please delete or replace with your own tracking ID
-    anonymize-ip: true 
+#  google-analytics:
+#    tracking-id: ""  # Please delete or replace with your own tracking ID
+#    anonymize-ip: true 
 
 bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
 
