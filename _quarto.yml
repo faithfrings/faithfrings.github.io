@@ -47,8 +47,8 @@ website:
 #        href: people.qmd
 
     right: 
-#      - text: CV
-#        href: files/nsf-biosketch.pdf
+      - text: CV
+        href: files/CV_FaithFrings.pdf
       - icon: github
         href: https://github.com/faithfrings
         target: _blank
