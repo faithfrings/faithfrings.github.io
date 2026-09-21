@@ -73,9 +73,6 @@ I earned a M.S. in Biology with a concentration in Ecology and Evolution at the 
 
 My current dissertation research uses qualitative and mixed methods to explore and investigate undergraduate student motivation to engage with learning coding in the life sciences. I collect data in R integrated biology courses and field-based data science courses.
 
-I am currently serving as the Chair of the [DBER scholars in training (DBER-SiT) committee](https://saberbio.org/Committee-Chairs). Our goals are to provide community and support for DBER graduate and postdoctoral scholars. More information [here](https://saberbio.org/DBER-SiT). If you are interested in joining the DBER-SiT Discord, please email us!
-
-I also co-lead an R Users Group with Dr. Easton White at UNH. Our goals are to develop a community for graduate students and post docs to learn and do statistics and coding in R. More information [here!](https://unh-r-users-group.github.io/website/)
 :::
 
 
