@@ -63,7 +63,7 @@ website:
   
   page-footer: 
     left: "[Faith Frings](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Faith Frings](http://drganghe.github.io)"
+    center: "Built on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Faith Frings](http://drganghe.github.io)"
     right:  
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
